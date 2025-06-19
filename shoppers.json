@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "БлаБлаБла1",
+        "price": 300,
+        "desc": "BlaBlaBla",
+        "image": "src/img/item-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "БлаБлаБла2",
+        "price": 400,
+        "desc": "BlaBlaBla",
+        "image": "src/img/item-2.png"
+    },
+    {
+        "id": 3,
+        "name": "БлаБлаБла3",
+        "price": 500,
+        "desc": "BlaBlaBla",
+        "image": "src/img/item-3.png"
+    }
+]
