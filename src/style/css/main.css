@@ -187,6 +187,7 @@
 }
 .catalog-holder .catalog-search .btn-search {
   background-color: #CFF80A;
+  text-decoration: none;
   border-style: none;
   border-radius: 10px;
   font-family: "Archivo Black", sans-serif;
